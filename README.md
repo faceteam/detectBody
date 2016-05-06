@@ -51,7 +51,7 @@ ccv是一个开源的计算机视觉库，基于C语言开发，是一种以应�
 
 使用[本项目](https://github.com/faceteam/detectBody)，将result.txt中的结果可视化在图片上，示例如:
 ![可视化结果][检测结果]
-[检测结果]: img/crop_000001.png
+[检测结果]: crop_000001.png
 
 ## 计算环境
 
